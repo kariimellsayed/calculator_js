@@ -20,9 +20,6 @@ A simple and interactive calculator application built using HTML, CSS, and JavaS
 - **CSS3**: For styling and layout, ensuring responsiveness.
 - **JavaScript**: For the core functionality and interaction handling.
 
-## Installation
+## Demo
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/calculator-js.git
-   ```
+[Demo](https://calculator-js-scss.vercel.app/)
